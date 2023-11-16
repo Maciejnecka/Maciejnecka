@@ -1,6 +1,7 @@
 <h1>Witaj na moim profilu!</h1>
 
-Jestem pełnym zapału przyszłym front-end developerem, który nieustannie poszerza swoją wiedzę i umiejętności w fascynującym świecie tworzenia interfejsów użytkownika. Moje pasje to kodowanie, nowinki technologiczne oraz świat gier MMO.
+<strong>Jestem pełnym zapału przyszłym front-end developerem, który nieustannie poszerza swoją wiedzę i umiejętności w fascynującym świecie tworzenia interfejsów użytkownika. Moje pasje to kodowanie, nowinki technologiczne oraz świat gier MMO.</strong>
+
 
 
 <h2>🛠️ Technologie, które obecnie opanowuję</h2>
@@ -19,9 +20,10 @@ Jestem pełnym zapału przyszłym front-end developerem, który nieustannie posz
 ![Git](https://img.shields.io/badge/GIT-ADB188?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
+
 <h2>🌐 Skontaktuj się ze mną</h2>
 
-🤝 Jestem otwarty na nowe wyzwania i współpracę! Jeśli masz ciekawy projekt lub propozycję, chętnie się z Tobą skonsultuję. Daj znać!
+<strong>🤝 Jestem otwarty na nowe wyzwania i współpracę! Jeśli masz ciekawy projekt lub propozycję, chętnie się z Tobą skonsultuję. Daj znać!</strong>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciek-n%C4%99cka-b52070256/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:macieknecka@gmail.com)
