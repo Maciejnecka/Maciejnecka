@@ -25,7 +25,7 @@
 
 <strong>🤝 Jestem otwarty na nowe wyzwania i współpracę! Jeśli masz ciekawy projekt lub propozycję, chętnie się z Tobą skonsultuję.</br> Daj znać!</strong>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciek-n%C4%99cka-b52070256/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciek-n%C4%99cka-b52070256/)</br> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:macieknecka@gmail.com)
 
 
