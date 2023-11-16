@@ -1,6 +1,6 @@
 🚀 Witaj na moim profilu! 🚀
 
-Jestem pełnym zapału przyszłym Front-end developerem, który nieustannie poszerza swoją wiedzę i umiejętności w fascynującym świecie tworzenia interfejsów użytkownika. Moje pasje to kodowanie, kreatywność i ciągłe dążenie do doskonałości w projektach webowych.
+Jestem pełnym zapału przyszłym front-end developerem, który nieustannie poszerza swoją wiedzę i umiejętności w fascynującym świecie tworzenia interfejsów użytkownika. Moje pasje to kodowanie, nowinki technologiczne oraz świat gier MMO.
 
 🛠️ Technologie, które obecnie opanowuję:</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -17,14 +17,10 @@ Jestem pełnym zapału przyszłym Front-end developerem, który nieustannie posz
 ![Git](https://img.shields.io/badge/GIT-ADB188?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-Nieustannie poszerzam swoją wiedzę o najnowsze trendy i technologie w świecie Front-end developmentu.
-Aktywnie uczestniczę w społeczności programistycznej, dzieląc się wiedzą i ucząc się od innych.
+🌐 Skontaktuj się ze mną</br>
 
-🌐 Gdzie mnie znaleźć?</br>
-
-💼 [LinkedIn ](https://www.linkedin.com/in/maciek-n%C4%99cka-b52070256/)</br>
-📘 [Facebook ](https://www.facebook.com/maciek.necka)</br>
-📧 macieknecka@gmail.com</br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciek-n%C4%99cka-b52070256/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](mailto:macieknecka@gmail.com)
 
 🤝 Jestem otwarty na nowe wyzwania i współpracę! Jeśli masz ciekawy projekt lub propozycję, chętnie się z Tobą skonsultuję. Daj znać!
 
