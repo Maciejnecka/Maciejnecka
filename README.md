@@ -33,7 +33,7 @@
 <h3>Github Stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maciejnecka&show_icons=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maciejnecka&theme=holi&hide_border=true)
+![](http://github-readme-streak-stats.herokuapp.com?user=Maciejnecka&theme=white&mode=weekly)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejnecka&layout=compact)
 
 <img src="https://visitcount.itsvg.in/api?id=maciejnecka&label=Profile%20Views&color=8&icon=1&pretty=false" alt="Profile Views Count"></p>
