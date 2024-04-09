@@ -40,4 +40,6 @@
 
 <h3>Dziękuję za odwiedzenie mojego profilu. 🙌🚀</h3>
 
+Serdecznie zapraszam także do zapoznania się z moją [stroną portfolio](https://maciejnecka.pl/).
+
 
