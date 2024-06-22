@@ -1,4 +1,4 @@
-<h1>Witaj na moim profilu</h1>
+<h1>Witaj na moim profilu!</h1>
 
 <strong>Jestem pełnym zapału front-end developerem, który nieustannie poszerza swoją wiedzę i umiejętności w fascynującym świecie tworzenia interfejsów użytkownika. Moje pasje to kodowanie, nowinki technologiczne oraz świat gier MMORPG</strong>
 
